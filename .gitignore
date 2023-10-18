@@ -1,0 +1,12 @@
+nimcache/
+nimblecache/
+htmldocs/
+nim.cfg
+
+*.bat
+*.exe
+*.bin
+!bin/*.exe
+
+.vscode/*
+*.code-workspace
